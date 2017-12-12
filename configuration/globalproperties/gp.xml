@@ -5,6 +5,10 @@
       <value>false</value>
     </globalProperty>
     <globalProperty>
+      <property>bahmni.extraPatientIdentifierTypes</property>
+      <value></value>
+    </globalProperty>
+    <globalProperty>
       <property>bahmni.encountersession.duration</property>
       <value>600</value>
     </globalProperty>
