@@ -28,5 +28,9 @@
       <property>bahmniOfflineSync.strategy</property>
       <value>org.bahmni.module.bahmniOfflineSync.strategy.AddressEntriesSyncStrategy</value>
     </globalProperty>
+    <globalProperty>
+      <property>bahmniOfflineSync.addressEntriesSyncStrategy.locations</property>
+      <value>[{"uuid":"a160b5df-b832-4f69-a32a-7a975ad639a7"}]</value>
+    </globalProperty>
   </globalProperties>
 </config>
